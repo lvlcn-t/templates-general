@@ -2,8 +2,8 @@
 
 <!-- markdownlint-disable MD033 -->
 <p align="center">
-    <a href="/../../commits/" title="Last Commit"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/lvlcn-t/lvlcn-t?style=flat"></a>
-    <a href="/../../issues" title="Open Issues"><img alt="Open Issues" src="https://img.shields.io/github/issues/lvlcn-t/lvlcn-t?style=flat"></a>
+    <a href="/../../commits/" title="Last Commit"><img alt="Last Commit" src="https://img.shields.io/github/last-commit/lvlcn-t/meta?style=flat"></a>
+    <a href="/../../issues" title="Open Issues"><img alt="Open Issues" src="https://img.shields.io/github/issues/lvlcn-t/meta?style=flat"></a>
 </p>
 <!-- markdownlint-enable MD033 -->
 
@@ -72,7 +72,7 @@ The following channels are available for discussions, feedback, and support requ
 <!-- markdownlint-disable MD033 -->
 | Type       | Channel                                                                                                                                                                       |
 | ---------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Issues** | <a href="/../../issues/new/choose" title="General Discussion"><img alt="General Discussion" src="https://img.shields.io/github/issues/lvlcn-t/lvlcn-t?style=flat-square"></a> |
+| **Issues** | <a href="/../../issues/new/choose" title="General Discussion"><img alt="General Discussion" src="https://img.shields.io/github/issues/lvlcn-t/meta?style=flat-square"></a> |
 <!-- markdownlint-enable MD033 -->
 
 ## How to Contribute
